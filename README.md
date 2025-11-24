@@ -88,8 +88,4 @@ Shows description, total completions, and streak count.
 **Expected:**  
 Habits load automatically from `habits.dat`.
 
----
 
-## Notes
-- This project is designed to be lightweight and easy to run on any system with Java installed.  
-- Data persistence uses Java’s built-in serialization and creates a `habits.dat` file automatically.  
