@@ -33,7 +33,7 @@ VS Code / IntelliJ (optional) – For development
    ```
    java com.vityarthi.smarthabit.Main
    ```
-Instructions for Testing
+## Instructions for Testing
 To verify that the project works correctly, follow these test steps:
 1.Add a Habit
 Select option 1
