@@ -9,22 +9,22 @@ It demonstrates Object Oriented concepts, Collections, File based persistence (s
 exception handling meeting the course requirements.
 
 ## Features
- Add / Remove habits
- Mark habit done for today
- Show all habits with total completions and current streak
- Save and load data from a local file (`habits.dat`)
+ 1.Add / Remove habits
+ 2.Mark habit done for today
+ 3.Show all habits with total completions and current streak
+ 4.Save and load data from a local file (`habits.dat`)
 
 ## Technologies / Tools Used
-Java 8+ / Java 11 – Core programming language
-Collections Framework – For managing habits (Map, Set)
-Java Serialization – For saving and loading data
-LocalDate API – To record daily completions
-Exception Handling – For safe file I/O operations
-Git & GitHub – Version control and project hosting
-VS Code / IntelliJ (optional) – For development
+1.Java 8+ / Java 11 – Core programming language
+2.Collections Framework – For managing habits (Map, Set)
+3.Java Serialization – For saving and loading data
+4.LocalDate API – To record daily completions
+5.Exception Handling – For safe file I/O operations
+6.Git & GitHub – Version control and project hosting
+7.VS Code / IntelliJ (optional) – For development
 
 ## How to compile and run
-1. Open terminal in `src` folder 
+1. Open terminal in `src` folder  
 2. Compile:
    ```
    javac com/vityarthi/smarthabit/*.java
