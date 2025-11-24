@@ -1,11 +1,8 @@
 # statement.md
 
-## Project Title
-Smart Habit Tracker
-
 ## Problem Statement
 Many students struggle to build consistent daily habits. This tracker provides a simple
-console-based tool to record habits and view progress.
+console based tool to record habits and view progress.
 
 ## Scope
 - Single-user, local (file-based) tracker.
